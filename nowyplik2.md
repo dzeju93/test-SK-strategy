@@ -6,5 +6,9 @@ kolejna aktualizacja
 15:40
 kolejna zmiana
 123456456
-qweqweqwe
+qweqweqweqweqweqwe
+qweqweqweq
+weqweq
+weqweqweq
+weqweqe
 123
