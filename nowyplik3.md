@@ -2,4 +2,4 @@ nowy plik dodany w repo strategy
 
 zmiana w main
 
-zmiana w strategy2
+zmiana w strategy2asd
