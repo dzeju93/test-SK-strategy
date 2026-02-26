@@ -7,4 +7,4 @@ kolejna aktualizacja
 kolejna zmiana
 123
 qweqweqwe
-123123
+123
