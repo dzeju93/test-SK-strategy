@@ -6,3 +6,5 @@ zmiana w strategyasdasd
 zmiana 15:43sad
  sadfsdf
  asdasdasd
+ 123123
+ 
